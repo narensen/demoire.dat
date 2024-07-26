@@ -1,7 +1,7 @@
 # demoiré.dat
 Provides edge over Traditional CNN and GANs in accuracy and efficiency
 
-# Image Restoration with Deformable Attention Transformer
+# Image Restoration with Deformable Attention Transformer and CNN
 
 This project implements an image restoration model using a Deformable Attention Transformer (DAT) architecture. The model is designed to remove moiré patterns from images using the UHDM dataset.
 
