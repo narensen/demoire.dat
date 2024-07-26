@@ -1,4 +1,4 @@
-# DeNoisy.dat
+# demoiré.dat
 Provides edge over Traditional CNN and GANs in accuracy and efficiency
 
 # Image Restoration with Deformable Attention Transformer
