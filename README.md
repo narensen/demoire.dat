@@ -1,5 +1,11 @@
 # demoiré.dat
 Provides edge over Traditional CNN and GANs in accuracy and efficiency
+ 
+Test Image:                                                                                                                    Demoired Image:                                                     
+![0000_moire](https://github.com/user-attachments/assets/59293d41-6dfc-4d4e-a9d2-77fac3a829e4)                                 ![0000_gt](https://github.com/user-attachments/assets/ca91279a-abd1-4306-a017-44812087e84f)      
+
+
+
 
 # Image Restoration with Deformable Attention Transformer and CNN
 
@@ -82,8 +88,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file 
 
-Test Image:
-![0000_moire](https://github.com/user-attachments/assets/59293d41-6dfc-4d4e-a9d2-77fac3a829e4)
 
-Demoired Image:
-![0000_gt](https://github.com/user-attachments/assets/ca91279a-abd1-4306-a017-44812087e84f)
