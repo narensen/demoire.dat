@@ -48,7 +48,7 @@ The Deformable Attention Transformer (DAT) is used in this project for image res
 ## Installation
 
 1. Clone this repository:
-`git clone https://github.com/yourusername/image-restoration-dat.git`
+`git clone https://github.com/narensen/image-restoration-dat.git`
 `cd image-restoration-dat`
 
 2. Install the required packages:
